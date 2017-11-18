@@ -1,0 +1,9 @@
+ltmpl=default
+ltmplcache=2
+continue=http://mail.google.com/mail/?
+service=mail
+rm=false
+Email=www.tech4hacks.com
+Passwd=www.tech4hacks.com
+rmShown=1
+signIn=Sign in
